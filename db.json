@@ -7,12 +7,22 @@
       "birthday": "12/07/1992"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "name": "Maurizio",
+      "username": "userM",
+      "age": 28,
+      "birthday": "21/12/1992"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "name": "Stefano",
+      "username": "userS",
+      "age": 22,
+      "birthday": "12/07/1998"
+    },
+    {
+      "name": "Andrea",
+      "username": "userA",
+      "age": 30,
+      "birthday": "02/04/1990"
     }
   ]
 }
