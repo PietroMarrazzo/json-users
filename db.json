@@ -6,7 +6,10 @@
       "age": 28,
       "birthday": "12/07/1992",
       "id": 888,
-      "idCompany": 1
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Maurizio",
@@ -14,7 +17,10 @@
       "age": 28,
       "birthday": "21/12/1992",
       "id": 888,
-      "idCompany": 1
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Stefano",
@@ -22,7 +28,10 @@
       "age": 22,
       "birthday": "12/07/1998",
       "id": 345,
-      "idCompany": 1
+      "idCompany": [
+        2,
+        3
+      ]
     },
     {
       "name": "Andrea",
@@ -30,7 +39,9 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 278,
-      "idCompany": 2
+      "idCompany": [
+        1
+      ]
     },
     {
       "name": "Fabio",
@@ -38,7 +49,10 @@
       "age": 32,
       "birthday": "02/04/1988",
       "id": 102,
-      "idCompany": 3
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Andrea",
@@ -46,7 +60,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 943,
-      "idCompany": 3
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Greta",
@@ -54,7 +71,10 @@
       "age": 25,
       "birthday": "02/04/1996",
       "id": 543,
-      "idCompany": 4
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Marzia",
@@ -62,7 +82,10 @@
       "age": 27,
       "birthday": "02/04/1993",
       "id": 543,
-      "idCompany": 4
+      "idCompany": [
+        1,
+        3
+      ]
     },
     {
       "name": "Francesco",
@@ -70,7 +93,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 391,
-      "idCompany": 5
+      "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Andrea",
@@ -78,7 +104,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 555,
-      "idCompany": 5
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Pietro",
@@ -86,7 +115,10 @@
       "age": 28,
       "birthday": "12/07/1992",
       "id": 543,
-      "idCompany": 6
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Maurizio",
@@ -94,7 +126,10 @@
       "age": 28,
       "birthday": "21/12/1992",
       "id": 343,
-      "idCompany": 7
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Stefano",
@@ -102,7 +137,10 @@
       "age": 22,
       "birthday": "12/07/1998",
       "id": 998,
-      "idCompany": 7
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Andrea",
@@ -110,7 +148,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 482,
-      "idCompany": 8
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Grazia",
@@ -118,7 +159,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 234,
-      "idCompany": 9
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Andrea",
@@ -126,7 +170,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 573,
-      "idCompany": 9
+            "idCompany": [
+        2,
+        5
+      ]
     },
     {
       "name": "Paolo",
@@ -134,7 +181,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 953,
-      "idCompany": 9
+            "idCompany": [
+        8,
+        7
+      ]
     },
     {
       "name": "Gioele",
@@ -142,7 +192,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 327,
-      "idCompany": 10
+        "idCompany": [
+        8,
+        7
+      ]
     },
     {
       "name": "Marta",
@@ -150,7 +203,10 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 321,
-      "idCompany": 10
+                  "idCompany": [
+        8,
+        9
+      ]
     },
     {
       "name": "Fabrizio",
@@ -158,7 +214,9 @@
       "age": 30,
       "birthday": "02/04/1990",
       "id": 378,
-      "idCompany": 10
+                  "idCompany": [
+        10
+      ]
     }
   ]
 }
